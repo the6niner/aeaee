@@ -1,3 +1,2 @@
-local a = "zelix_3"
-
-return(a)
+local d = game.Players.LocalPlayer.Name
+return(d)
